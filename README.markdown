@@ -70,7 +70,6 @@ The project deliverables include SQL queries, a Jupyter Notebook with code and r
   - The top customers by spending provide insights into high-value clients for potential targeted marketing.
   - The product sales rankings identify popular tracks, which could inform inventory or promotional strategies.
 - **Challenges**:
-  - The `results.pdf` file appears to have formatting issues on Page 2, with incomplete table data for Requirement 3. This could be due to OCR errors or issues during PDF generation.
   - Ensuring correct JOIN types (INNER vs. LEFT) was critical to avoid missing data in Requirement 1.
 - **Future Improvements**:
   - Add visualizations (e.g., bar charts) in the Jupyter Notebook to better present customer spending and product sales.
