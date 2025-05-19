@@ -1,7 +1,7 @@
 # Chinook Database Analysis Project
 
 ## Project Overview
-This project involves analyzing the [Chinook database](https://github.com/lerocha/chinook-database), a sample SQLite database representing a digital media store. The goal is to practice advanced SQL techniques, including complex joins, Common Table Expressions (CTEs), window functions, and query optimization through indexing. The project is divided into three main requirements:
+This project involves analyzing the Chinook database, a sample SQLite database representing a digital media store. The goal is to practice advanced SQL techniques, including complex joins, Common Table Expressions (CTEs), window functions, and query optimization through indexing. The project is divided into three main requirements:
 
 1. **Complex Joins and CTEs**: Combine data from multiple tables to calculate the total spending of customers and identify the top 10 spenders.
 2. **Window Functions for Ranking**: Use window functions to rank products based on total sales and identify top-selling products.
@@ -22,8 +22,6 @@ The project deliverables include SQL queries, a Jupyter Notebook with code and r
   - **pandas**: Used for handling and displaying query results in DataFrames.
   - **time**: Used to measure query execution times for performance comparison.
 - **Jupyter Notebook**: For writing and executing SQL queries and Python code, and for documenting the analysis process.
-- **LaTeX**: Used to generate the `results.pdf` report (assumed based on the provided PDF content).
-- **Git**: For version control and hosting the project on GitHub.
 
 ## Requirements and Implementation
 
