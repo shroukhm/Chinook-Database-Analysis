@@ -96,9 +96,6 @@ The project deliverables include SQL queries, a Jupyter Notebook with code and r
    - Run all cells to execute the SQL queries and view results.
    - Review `results.pdf` for a summary of query outputs.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - The Chinook database is provided by [Luis Rocha](https://github.com/lerocha/chinook-database).
 - This project was completed as part of a SQL and database analysis learning exercise.
